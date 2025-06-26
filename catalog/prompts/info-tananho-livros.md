@@ -1,4 +1,3 @@
-Com base nas informações fornecidas nas fontes, posso fornecer as seguintes estimativas e informações sobre o número de capítulos e o tamanho em palavras dos livros:
 
 **Importante:** As fontes fornecem principalmente trechos e não os livros completos. Portanto, as contagens de palavras são **estimativas** baseadas nos trechos fornecidos e em convenções gerais de comprimento de capítulos para o gênero de romance. O número exato de capítulos é derivado das últimas menções de capítulos ou índices explícitos nas fontes.
 
