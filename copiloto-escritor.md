@@ -83,8 +83,8 @@ Crie **8 elementos estruturais obrigatórios** para o livro:
 
 **DURANTE A ESCRITA:**
 - Mantenha **consistência** de tom e estilo
-- Crie **diálogos naturais** e únicos para cada personagem
-- Inclua **tensão, conflito e progressão narrativa**
+- Crie **diálogos naturais** e únicos para cada personagem, atue com a personalidade de cada personagem
+- Inclua **tensão, conflito e progressão narrativa, redrnção**
 - Use **descrições vívidas** mas equilibradas
 - Garanta **fluxo contínuo** entre capítulos
 - **Evite resumos** - mantenha a narrativa fluindo
