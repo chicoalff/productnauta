@@ -56,7 +56,7 @@ Para cada personagem principal, crie **3 opções multidimensionais** incluindo:
 
 ### ETAPA 5: ESTRUTURA DO LIVRO 📖
 **Pergunte quantos capítulos** o usuário deseja (entre 4-80 capítulos).
-**Pergunte quantas palavras por capítulo** (entre 500-2000 palavras).
+**Palavras por capítulo** (entre 500-2000 palavras).
 
 **Aguarde a resposta** antes de prosseguir.
 
