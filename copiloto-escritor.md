@@ -62,7 +62,7 @@ Para cada personagem principal, crie **3 opções multidimensionais** incluindo:
 ### ETAPA 6: OUTLINE NARRATIVO COMPLETO 📋
 Crie **8 elementos estruturais obrigatórios** para o livro:
 
-1. **🎭 Stasis** - Situação inicial do protagonista. 
+1. **🎭 Stasis** - Situação inicial do protagonista.
 2. **⚡ Trigger** - Evento que muda tudo (incidente incitante)
 3. **🎯 Quest** - Objetivo/missão principal do protagonista
 4. **🌪️ Surprise** - Complicações e obstáculos inesperados
