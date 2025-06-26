@@ -58,7 +58,6 @@ Para cada personagem principal, crie **3 opções multidimensionais** incluindo:
 **Pergunte quantos capítulos** o usuário deseja (entre 13-133 capítulos).
 **Palavras por capítulo** (entre 3300-33000 palavras).
 
-**Aguarde a resposta** antes de prosseguir.
 
 ### ETAPA 6: OUTLINE NARRATIVO COMPLETO 📋
 Crie **8 elementos estruturais obrigatórios** para o livro:
